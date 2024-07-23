@@ -10,4 +10,4 @@ A is a fully responsive ecommerce website, maximum compatiblities in all mobile 
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 
-## Demo Link  (https://farrari-100.github.io/e-commerce-site/)](https://farrari-100.github.io/e-commerce-site/)
+## Demo Link  [(https://farrari-100.github.io/e-commerce-site/)](https://farrari-100.github.io/e-commerce-site/)
